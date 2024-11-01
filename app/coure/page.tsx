@@ -17,7 +17,7 @@ src="/images/coure.png"
             and smooth driving experience in the small car segment. Known for its compact design, the Cuore is 
             perfect for navigating busy city roads with ease, while its spacious interior provides comfort for both
              the driver and passengers. It offers great fuel efficiency, allowing drivers to enjoy a cost-effective
-              ride without compromising on performance. Additionally, the Cuore's robust engine and low maintenance
+              ride without compromising on performance. Additionally, the Cuore robust engine and low maintenance
                needs make it a reliable and durable option for long-term ownership.</p>
             </div>  
             <div className="grid grid-rows-1 grid-cols-5">
